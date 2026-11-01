@@ -4,7 +4,7 @@
 let studentName = "Neel Yuvan";
 let rollno = 101;
 let department = "Computer Science";
-let marks = [78, 89, 71, 91, 69];
+let marks = [78, 89, 71, 91, 78];
 
 // Calculate total marks
 function calculateTotal(marksArray) {
